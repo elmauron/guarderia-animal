@@ -1,2 +1,6 @@
-package PACKAGE_NAME;public enum Sexo {
+public enum Sexo {
+
+    MACHO, HEMBRA;
+
+    private Sexo() {}
 }

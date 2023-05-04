@@ -1,2 +1,6 @@
-package PACKAGE_NAME;public enum TipoDeAgua {
+public enum TipoDeAgua {
+
+    FRIA, TROPICAL;
+
+    private TipoDeAgua() {}
 }
