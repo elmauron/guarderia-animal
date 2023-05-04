@@ -12,7 +12,7 @@ public class Dueño {
         this.dni = dni;
         this.direccion = direccion;
     }
-    
+
         //Metodos
 
 
